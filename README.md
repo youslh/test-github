@@ -10,3 +10,6 @@
 ### test fetch 4
 
 ### test pull with a uncommited changes (local)
+
+
+### test pull with a uncommited changes (remote)
